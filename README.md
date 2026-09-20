@@ -2,16 +2,17 @@
 
 ## Data Engineer | Data Analytics
 
-I build scalable data pipelines, lakehouse architectures, streaming systems, and analytics-ready data platforms using modern cloud and distributed data technologies.
+I build data pipelines, lakehouse architectures, streaming systems, and analytics-ready data platforms using modern cloud and distributed data technologies.
 
 ### Technical Focus
 
+- Data Engineering and Analytics
 - Batch and real-time data pipelines
 - Change Data Capture (CDC)
 - Apache Spark and PySpark
 - Databricks and Delta Lake
 - AWS data engineering
-- Apache Kafka and streaming architectures
+- Apache Kafka and streaming systems
 - ETL/ELT and data warehousing
 - Data modeling and dimensional modeling
 - Data quality, lineage, and observability
@@ -29,13 +30,6 @@ I build scalable data pipelines, lakehouse architectures, streaming systems, and
 **Analytics:** Pandas, Tableau, Power BI, Microsoft Excel
 
 **DevOps:** Git, Docker, Terraform, GitHub Actions
-
-### Featured Projects
-
-- CDC Lakehouse Platform
-- Healthcare FHIR Data Platform
-- Real-Time Product Analytics Platform
-- Data Reliability & Observability Platform
 
 ### Education
 
